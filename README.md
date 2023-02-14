@@ -98,25 +98,13 @@ I recently graduated👩‍🎓 with a Master's degree in Data Analytics from Th
 
 <br/>  
 
-
-
+<br/>  
 
 <br/>  
 
-
-
-  
-
 <br/>  
 
-  
-
 <br/>  
-
-
-
-<br/>  
-
 
 <br />
 
