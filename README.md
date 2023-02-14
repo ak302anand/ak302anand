@@ -26,7 +26,7 @@ I recently graduated👩‍🎓 with a Master's degree in Data Analytics from Th
 - 🔭 I’m currently working on Women in Data Science Datathon 2023 (https://www.kaggle.com/competitions/widsdatathon2023)  
   
 
-- 🌱 I’m currently learning Time Series Analysis. This year, I couldn't enjoy snowfall🌨️ in the area where I live. So I thought why not try Time Series Analysis to see if I can predict when it's going to snow. Well, to check the extent of this technique, I'm planning to use it to predict climate change 🔆🌊
+- 🌱 I’m currently learning Time Series Analysis. I was unable to take advantage of this year's snowfall in my neighborhood🌨️. I thus figured why not use time series analysis to see if I could forecast when it will snow. Well, to check the effectiveness of this technique, I'm planning to use it to predict climate change 🔆🌊
 
 
 - 👯 I’m looking to collaborate on projects that uses neural networks
