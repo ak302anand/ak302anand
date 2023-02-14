@@ -1,5 +1,4 @@
 
-
 <!--
 ### Hi there 👋
 **ak302anand/ak302anand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +19,6 @@ Here are some ideas to get you started:
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
 ### <div align="center">I'm Akanksha, a Data Science & Machine Learning enthusiast👨‍💻 🚀 
 I recently graduated👩‍🎓 with a Master's degree in Data Analytics from The Pennsylvania State University🎓</div>  
   
